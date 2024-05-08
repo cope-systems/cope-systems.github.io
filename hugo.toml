@@ -1,0 +1,4 @@
+baseURL = 'https://www.copesystems.com/'
+languageCode = 'en-us'
+title = 'Cope Systems'
+theme = 'slick'
